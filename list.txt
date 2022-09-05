@@ -4,5 +4,5 @@ milk
 buttermilk
 file
 paper
-news
+new
 
