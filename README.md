@@ -13,3 +13,4 @@ coercion types
 d6
 56
 6
+5
