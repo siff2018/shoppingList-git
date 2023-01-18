@@ -11,5 +11,5 @@ type conversion
 coercion types 
 
 d6
-5
+56
 6
