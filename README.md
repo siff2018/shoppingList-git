@@ -10,4 +10,4 @@ type conversion
 
 coercion types 
 
-d
+d6
