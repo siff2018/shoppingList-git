@@ -15,3 +15,4 @@ coercion types
 oo
 o
 o
+o
