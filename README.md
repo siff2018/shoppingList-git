@@ -10,14 +10,3 @@ type conversion
 
 coercion types 
 [
-
-[
-oo
-o
-o
-o
-o
-o
-o
-o
-o
