@@ -17,3 +17,4 @@ d
 5
 slice
 splice
+reduce
