@@ -18,3 +18,4 @@ d
 slice
 splice
 reduce
+splice
