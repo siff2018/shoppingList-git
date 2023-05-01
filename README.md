@@ -19,3 +19,4 @@ slice
 splice
 reduce
 splice
+slice
