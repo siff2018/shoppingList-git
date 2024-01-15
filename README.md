@@ -3,7 +3,7 @@
 !!!!d
 [[d
 ===========================
-ddo
+ddo4
 
 miscellaneous
 type conversion
