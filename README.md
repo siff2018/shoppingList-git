@@ -10,7 +10,7 @@ type conversion
 
 coercion types 
 [
-d
+dg
 5g
 5gg
 5g
