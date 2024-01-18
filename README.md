@@ -14,7 +14,7 @@ d
 5g
 5gg
 5
-5
+5g
 slice4
 splice
 reduce4
