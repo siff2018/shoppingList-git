@@ -13,7 +13,7 @@ coercion types
 d
 5g
 5gg
-5
+5g
 5g
 slice4
 splice
