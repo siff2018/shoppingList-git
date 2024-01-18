@@ -12,7 +12,7 @@ coercion types
 [
 d
 5g
-5g
+5gg
 5
 5
 slice4
