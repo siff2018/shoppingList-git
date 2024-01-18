@@ -4,7 +4,7 @@ gg# shoppingList-git
 [[d
 ===========================
 ddo4
-g
+gg
 miscellaneous
 type conversion
 
