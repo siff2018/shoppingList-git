@@ -6,7 +6,7 @@ gg# shoppingList-git
 ddo4
 gg
 miscellaneous
-type conversion
+type conversiong
 
 coercion types 
 [
