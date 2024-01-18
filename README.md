@@ -1,4 +1,4 @@
-g# shoppingList-git
+gg# shoppingList-git
 # world of shoppping list
 !!!!d
 [[d
