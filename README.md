@@ -18,7 +18,7 @@ dgg
 slice4
 splice
 reduce4
-splice
+spliced
 slice
 useContext
 createContext
